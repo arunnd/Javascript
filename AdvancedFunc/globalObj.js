@@ -31,3 +31,4 @@ sayHi();
 
 //////////////////////
 //this and window are same
+alert( this === window ); // true
